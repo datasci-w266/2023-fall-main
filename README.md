@@ -10,7 +10,7 @@ such as text classification, information extraction, machine translation, langua
 
 ## Links:
 
-* [Ed Discussion](https://edstem.org/us/join/PQKJeK)
+* [Ed Discussion](https://edstem.org/us/join/tyPxRS)
 * [Syllabus](syllabus/)
 * [Assignments](assignment/)
 * [Project](project/)

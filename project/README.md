@@ -85,7 +85,7 @@ For project ideas, take a look at the final projects from [previous](example-com
 - Analysis of gender roles or power dynamics in movie dialogues
 - Exploration of techniques for interpreting “black box” / neural models for language
 
-Additionally, we've put some of the top projects from previous semesters in [a drive folder](https://drive.google.com/drive/folders/TBD).  The folder and its contents are available for viewing to anyone with a berkeley.edu email address.
+Additionally, we've put some of the top projects from previous semesters in [a drive folder](https://drive.google.com/drive/folders/11JVnZzfyA9oVo-hfB_QmwA7d643b8HG6?usp=sharing).  The folder and its contents are available for viewing to anyone with a berkeley.edu email address.
 
 Also see below for NLP conferences - [ACL](https://www.aclweb.org/anthology/events/acl-2022/) and [EMNLP](https://www.aclweb.org/anthology/events/emnlp-2022/) are the top two, and you can find plenty of interesting ideas from the recent proceedings!
 
