@@ -5,7 +5,7 @@ You should begin working on assignments as soon as they are released.
 Each assignment is due at 11:59pm Pacific on Sundays, unless otherwise stated.
 
 You do not need any resources outside the class to do the assignments.  If
-you are stuck, please reach out on Piazza!
+you are stuck, please reach out on Ed Discussion!
 
 ### Weighting
 
@@ -22,8 +22,8 @@ More specifically:
   or help debug each other's code.
 - You can get help on general programming issues, but only in a very general 
   capacity that does not relate to a specific part of the assignment. (example: 
-  "Oh, I had issues with that function crashing, but updating TensorFlow to 1.14 
-  fixed it for me.") If in doubt, ask in a *private* question on Piazza.
+  "Oh, I had issues with that function crashing, but updating TensorFlow to 2.14 
+  fixed it for me.") If in doubt, ask in a *private* question on Ed Discussion.
 - You should not search for or use solutions to the assignment problems that you 
   find on the web. If you inadvertently come across such a solution, you 
   **must** cite it appropriately in your answer. (Bad search: "how to implement 
