@@ -286,6 +286,15 @@ will be released around the last live session of the week and due approximately 
   <td>Sep&nbsp;4</td>
 </tr
 
+<tr> <!-- a1 -->
+  <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
+  <td><strong>Assignment&nbsp;1</strong>
+  <ul>
+    <li>Neural Networks
+  </ul></td>
+  <td>Sep&nbsp;01</td>
+  <td>Sep&nbsp;10</td>
+</tr>
 
 
 <tr> <!-- project proposal -->
