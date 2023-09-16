@@ -117,7 +117,7 @@ Office hours are for the whole class; students from any section are welcome to a
   Assignment&nbsp;3
   <td><strong>Question Answering</strong></td>
   <td>Oct&nbsp;06</td>
-  <td>Oc&nbsp;22</td>
+  <td>Oct&nbsp;22</td>
   <td>15%</td>
 </tr>
 <tr>
@@ -294,6 +294,16 @@ will be released around the last live session of the week and due approximately 
   </ul></td>
   <td>Sep&nbsp;01</td>
   <td>Sep&nbsp;10</td>
+</tr>
+
+<tr>  <!-- a2 -->
+  <td><strong><a href="../assignment/a2" target="_blank">Assignment&nbsp;2</a></strong>
+  <td><strong>Assignment 2</strong>
+  <ul>
+    <li>Text Classification
+  </ul></td>
+  <td>Sep&nbsp;15</td>
+  <td>Oct&nbsp;01</td>
 </tr>
 
 
