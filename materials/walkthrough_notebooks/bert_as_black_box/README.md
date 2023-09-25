@@ -1,0 +1,9 @@
+# Walkthrough Notebooks: BERT as a black box
+
+The purpose of these notebooks is to show the use of BERT through some abstract APIs, in this case [HuggingFace Transformer Library](https://huggingface.co/transformers/), without getting in to what exactly is happening inside the model.  The goal is to be able to begin experimenting with that API and some models.  HuggingFace provides access to python libraries, [models](https://huggingface.co/models), [datasets](https://huggingface.co/datasets), and [documentation/tutorials](https://huggingface.co/docs/transformers/index).  You are encouraged to explore the site.  Note that Google operates a similar repository called [TensorFlow Hub](https://www.tensorflow.org/hub) but it is limited to Tensorflow and Keras models.
+
+These notebooks work better with a GPU.  You can access the notebooks using Colab.  To use Colab, click the open with colab button toward the top of the notebook.  The notebook is designed to use a GPU by default.  If that weren't the case you would need to enable a GPU in your colab notebookby using the Edit menu go to Notebook Settings and selecting GPU as the hardware accelerator.
+
+Note: GPUs are a shared resource.  The assumption is you will only use that shared resource when necessary.  When you are done using the GPU, terminate the session.  Do not use the GPU to run models that don't require a GPU e.g. a simple single dense layer.  Also note that you cannot run GPU notebooks for more than 12 hours at a time (although depending on demand that number can be lower, see [Colab Policy](https://research.google.com/colaboratory/faq.html#usage-limits)). If you hit the 12 hour mark your session will be terminated regardless of what you are doing at the time.  Therefore, be sure to close your sessions if you are not actively running some cells in the notebook.
+
+
