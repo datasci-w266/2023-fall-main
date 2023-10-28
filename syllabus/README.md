@@ -126,7 +126,7 @@ Office hours are for the whole class; students from any section are welcome to a
   Assignment&nbsp;4
   <td><strong>Multimodal NLP</strong></td>
   <td>Oct&nbsp;27</td>
-  <td>Nov&nbsp;05</td>
+  <td>Nov&nbsp;12</td>
   <td>10%</td>
 </tr>
 <tr>
@@ -283,7 +283,7 @@ will be released around the last live session of the week and due approximately 
     <li>Google Cloud Environment Set Up
   </ul></td>
   <td>Aug&nbsp;28</td>
-  <td>Sep&nbsp;4</td>
+  <td>Sep&nbsp;04</td>
 </tr
 
 <tr> <!-- a1 -->
@@ -313,7 +313,7 @@ will be released around the last live session of the week and due approximately 
   <strong><a href="../project" target="_blank">Final Project Guidelines</a></strong>
   </td>
   <td></td>
-  <td>Oct&nbsp;7</td>
+  <td>Oct&nbsp;07</td>
 </tr>
 
 <tr> <!-- a3 -->
@@ -324,8 +324,18 @@ will be released around the last live session of the week and due approximately 
     <li>Summarization
 	<li>Question Answering
   </ul></td>
-  <td>Oct&nbsp;6</td>
-  <td>OCtl&nbsp;22</td>
+  <td>Oct&nbsp;06</td>
+  <td>Oct&nbsp;22</td>
+</tr>
+
+<tr> <!-- a4 -->
+  <td><strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong>
+  <td><strong>Assignment 4</strong>
+  <ul>
+    <li>Image Captioning
+  </ul></td>
+  <td>Oct&nbsp;27</td>
+  <td>Nov&nbsp;12</td>
 </tr>
 
 <tr><!--- Project Reports -->
